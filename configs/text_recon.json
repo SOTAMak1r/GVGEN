@@ -1,0 +1,45 @@
+{
+    "volume_type": "grid",
+    "df_model_config": {
+        "df_shape": "[32, 32, 32]",
+        "conditioning_key": "crossattn",
+        "l_simple_weight": 1.0, 
+        "drop_rate": 0
+    },
+    "unet_config": {
+        "model_type": "UNet3DGDF",
+        "UNet3D_kwargs": {
+            "image_size": 32,
+            "in_channels": 1,
+            "out_channels": 13,
+            "model_channels": 224,
+            "num_res_blocks": 2,
+            "attention_resolutions": "[8, 4]",
+            "channel_mult" : "[1, 2, 4, 4]",
+
+            "num_head_channels": 32,
+            "num_heads": 8,
+
+            "dims": 3,
+
+            "use_spatial_transformer": true,
+            "transformer_depth": 1,
+            "context_dim": 768,
+            "use_checkpoint": true,
+            "legacy": false
+        }
+    },
+    "cond_model_config": {
+        "model": "ViT-L/14",
+        "finetune": false,
+        "adapter": false,
+        "cond_mode": "text"
+    },
+    "render_config": {
+        "use_render_loss": true,
+        "l1_weight": 0.2,
+        "ssim_weight": 0.8,
+        "render_weight": 1.0,
+        "num_imgs": 1
+    }
+}
