@@ -16,7 +16,7 @@
 
 ## 🔥 Update
 - [2024.07.04] Code and Models for text-conditional 3D generation are released !
-- [2024.07.04] GVGEN is accepted by ECCV 2024. See you in Milan!
+- [2024.07.04] GVGEN was accepted by ECCV 2024. See you in Milan!
 
 ## 🌿 Introduction
 
