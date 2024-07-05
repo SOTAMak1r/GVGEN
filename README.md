@@ -10,7 +10,7 @@
 
 
 <p align="center">
-<video src="assets/gvgen_teaser.mp4" width=95%>
+<img src="assets/gvgen_teaser.png" width=95%>
 <p>
 
 
