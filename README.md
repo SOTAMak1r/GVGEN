@@ -54,6 +54,8 @@ python run_text.py --text_input "a green truck"
 ```
 
 The generated gif and 3DGS will be saved to `sample.gif` and `sample.ply`, respectively.
+The text condition we used during training is derived from [Cap3D](https://huggingface.co/datasets/tiange/Cap3D). 
+We recommend everyone to imitate the style of Cap3D's text and create your own prompts for better generation results.
 
 
 ## ⚡️ ToDo List
