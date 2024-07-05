@@ -42,7 +42,7 @@ Please download models from [![Hugging Face Spaces](https://img.shields.io/badge
 
 
 
-### 🚀 Demo
+### Run
 
 After completing all the above instructions, run 
 
