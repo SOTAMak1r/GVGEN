@@ -38,7 +38,7 @@ Then, install the `diff-gaussian-rasterization` submodule according to the instr
 
 
 ### Pretrained Models
-Please download models from [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-blue)](https://huggingface.co/spaces/FoundationVision/LlamaGen), put them in the folder `./ckpts`.
+Please download models from [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-blue)](https://huggingface.co/SOTAMak1r/GVGEN), put them in the folder `./ckpts`.
 
 
 
