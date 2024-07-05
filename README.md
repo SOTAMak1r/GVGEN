@@ -10,7 +10,7 @@
 
 
 <p align="center">
-<img src="assets/gvgen_teaser.png" width=95%>
+<img src="assets/gvgen_teaser.gif" width=95%>
 <p>
 
 
