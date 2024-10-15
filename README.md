@@ -15,6 +15,7 @@
 
 
 ## 🔥 Update
+- [2024.10.16] Code for GaussianVolume Fitting is released ! See [CPS](https://github.com/sotamak1r/CPS) !
 - [2024.07.04] Code and Models for text-conditional 3D generation are released !
 - [2024.07.04] GVGEN was accepted by ECCV 2024. See you in Milan!
 
@@ -60,7 +61,7 @@ We recommend everyone to imitate the style of Cap3D's text and create your own p
 
 ## ⚡️ ToDo List
 
-- [ ] Release Code for GaussianVolume fitting
+- [x] ~~Release Code for GaussianVolume fitting~~
 
 - [ ] Release Code for data preprocessing
 
