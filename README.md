@@ -5,7 +5,7 @@
 
 [![arXiv](https://img.shields.io/badge/arXiv%20paper-2403.12957-b31b1b.svg)](https://arxiv.org/abs/2403.12957)&nbsp;
 [![project page](https://img.shields.io/badge/Project_page-More_visualizations-green)](https://sotamak1r.github.io/gvgen/)&nbsp;
-
+[![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-blue)](https://huggingface.co/SOTAMak1r/GVGEN)&nbsp;
 </div>
 
 
@@ -74,13 +74,10 @@ The majority of this project is licensed under MIT License. Portions of the proj
 
 ## BibTeX
 ```bibtex
-@misc{he2024gvgentextto3dgenerationvolumetric,
-      title={GVGEN: Text-to-3D Generation with Volumetric Representation}, 
-      author={Xianglong He and Junyi Chen and Sida Peng and Di Huang and Yangguang Li and Xiaoshui Huang and Chun Yuan and Wanli Ouyang and Tong He},
-      year={2024},
-      eprint={2403.12957},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2403.12957}, 
+@article{he2024gvgen,
+  title={GVGEN: Text-to-3D Generation with Volumetric Representation},
+  author={He, Xianglong and Chen, Junyi and Peng, Sida and Huang, Di and Li, Yangguang and Huang, Xiaoshui and Yuan, Chun and Ouyang, Wanli and He, Tong},
+  journal={arXiv preprint arXiv:2403.12957},
+  year={2024}
 }
 ```
